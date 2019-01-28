@@ -1,8 +1,9 @@
 # Site settings
 title: ACT. Consulting
 email: info@accept.li
-url: https://example.github.io
-description: "Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
+url: https://accept.li
+description: "From start-ups, to public and large private firms, ACT. Consulting will work with you to initialise and support your Testing capabilities. Using our methods and expertise, we will support releasing quality software through your development lifecycle, making each release better every-time"
+about_description: "ACT. Consulting are independent of large consulting firms, our ambition is to bring expertise and not numbers. As a team we strive to support each other, understanding not only new technologies but existing as well."
 
 # Color settings (hex-codes without the leading hash-tag)
 color:
